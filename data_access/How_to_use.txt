@@ -1,0 +1,7 @@
+There are two python files:
+1. scrape_data_links.py: This file needs to run first to generate "HSI_GT_Source.csv" file.
+2. data_download.py: This file will download the database files in the local computer at your specified path.
+
+HSI_GT_Source.csv is already included so you can skip scrape_data_links.py and run data_download.py directly.
+Set store_path in data_download.py to the directory where you want the files saved.
+If downloading is interrupted, uncomment the resume section in data_download.py before re-running.
