@@ -264,7 +264,7 @@ If you use this code, please cite:
 ```
 Priyabrata Karmakar, Manzur Murshed, Shyh Wei Teng,
 "Hyperspectral Imaging-Based Grain Quality Assessment with limited labelled data",
-IEEE Transactions on Emerging Topics in Computing, 2025.
+IEEE Transactions on Emerging Topics in Computing, 2026.
 ```
 
 Database citation:
